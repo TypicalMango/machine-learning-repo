@@ -1,2 +1,2 @@
-# mMachine Learning Practice
+# Machine Learning Practice
 codes to practice various types of ML
